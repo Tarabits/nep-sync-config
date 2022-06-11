@@ -3,6 +3,16 @@
   en: "Summer Time Rendering"
   season: 1
 
+- filter_tc: '[Nekomoe kissaten][Dance Dance Danseur][\d{2}][1080p][CHT].mp4'
+  filter_sc: '[Nekomoe kissaten][Dance Dance Danseur][\d{2}][1080p][CHS].mp4'
+  en: "Dance Dance Danseur"
+  season: 1
+
+- filter_tc: '[Sakurato] Jantama Pong [\d{2}][AVC-8bit 1080p AAC][CHT].mp4'
+  filter_sc: '[Sakurato] Jantama Pong [\d{2}][AVC-8bit 1080p AAC][CHS].mp4'
+  en: "Jantama Pong"
+  season: 1
+
 - filter_tc: '[Lilith-Raws] Kunoichi Tsubaki no Mune no Uchi - \d{2} [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4'
   filter_sc: '[Lilith-Raws] Kunoichi Tsubaki no Mune no Uchi - \d{2} [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4].mp4'
   en: "Kunoichi Tsubaki no Mune no Uchi"
@@ -77,7 +87,7 @@
   en: "Tomodachi Game"
   season: 1
 
-- filter_tc: '[NC-Raws] SPY×FAMILY.*- \d{2} (Baha 1920x1080 AVC AAC MP4).mp4'
+- filter_tc: '[NC-Raws] SPY×FAMILY.*- \d{2} (Baha 1920x1080 AVC AAC MP4).*\.mp4'
   filter_sc: '[Nekomoe kissaten][SPYxFAMILY][\d{2}][1080p][JPSC].mp4'
   en: "SPY×FAMILY"
   season: 1
